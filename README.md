@@ -1,28 +1,33 @@
-# PartTimeJob
+##嗨！兼职
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+兼职网服务平台,`多功能服务板块相结合`
 
-## Development server
+*用户登录*
+*企业发布*
+*强大的数据库以及良好的用户体验，敬请期待*
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+##开发服务器
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+为开发服务器运行`ng服务器。导航到`http：// localhost：4200 /`。如果更改任何源文件，应用程序将自动重新加载。
 
-## Build
+##代码脚手架
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+运行`ng generate component component-name`生成一个新的组件。你也可以使用`ng generate directive | pipe | service | class | guard | interface | enum | module`。
 
-## Running unit tests
+##构建
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+运行`ng build`来构建项目。构建工件将存储在`dist /`目录中。使用`-prod`标志进行生产构建。
 
-## Running end-to-end tests
+运行单元测试
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+运行`ng test`通过[Karma]（https://karma-runner.github.io）执行单元测试。
 
-## Further help
+##运行端到端测试
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+运行`ng e2e`通过[量角器]（http://www.protractortest.org/）执行端到端的测试。
+在运行测试之前，请确保您通过`ng服务'服务应用程序。
+
+##进一步的帮助
+
+要获得更多关于Angular CLI的帮助，请使用`ng help`或查看[Angular CLI README]（https://github.com/angular/angular-cli/blob/master/README.md）。
